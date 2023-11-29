@@ -48,7 +48,7 @@ TEST(test_7, creating_bad_triangle) {
 
 TEST(test_8, creating_bad_hexagon) {
     bool check;
-    Point<double> h1(3, 1), h2(2, 4), h3(3, 7), h4(6, 7), h5(7, 4), h6(6, 1);
+    Point<double> h1(3, 1), h2(3, 1), h3(3, 1), h4(6, 7), h5(7, 4), h6(6, 1);
     try {
         Hexagon<double> h(h1, h2, h3, h4, h5, h6);
     }
@@ -60,7 +60,7 @@ TEST(test_8, creating_bad_hexagon) {
 
 TEST(test_9, creating_bad_octagon) {
     bool check;
-    Point<double> o1(4, 1), o2(2, 2), o3(1, 4), o4(2, 6), o5(4, 7), o6(6 ,6), o7(7, 4), o8(6, 2);
+    Point<double> o1(4, 1), o2(4, 1), o3(4, 1), o4(4, 1), o5(4, 7), o6(6 ,6), o7(7, 4), o8(6, 2);
     try {
         Octagon<double> o(o1, o2, o3, o4, o5, o6, o7, o8);
     }
