@@ -1,0 +1,5 @@
+/home/stepan/Рабочий стол/учеба/prog 3 sem/OOP/laba6/build/CMakeFiles/lab6.dir
+/home/stepan/Рабочий стол/учеба/prog 3 sem/OOP/laba6/build/CMakeFiles/test_lab6.dir
+/home/stepan/Рабочий стол/учеба/prog 3 sem/OOP/laba6/build/CMakeFiles/test.dir
+/home/stepan/Рабочий стол/учеба/prog 3 sem/OOP/laba6/build/CMakeFiles/edit_cache.dir
+/home/stepan/Рабочий стол/учеба/prog 3 sem/OOP/laba6/build/CMakeFiles/rebuild_cache.dir

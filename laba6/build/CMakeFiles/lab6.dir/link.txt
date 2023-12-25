@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic CMakeFiles/lab6.dir/main.cpp.o CMakeFiles/lab6.dir/patterns/factory.cpp.o CMakeFiles/lab6.dir/patterns/visitor.cpp.o CMakeFiles/lab6.dir/patterns/observer.cpp.o CMakeFiles/lab6.dir/npc/npc.cpp.o CMakeFiles/lab6.dir/npc/ork.cpp.o CMakeFiles/lab6.dir/npc/bear.cpp.o CMakeFiles/lab6.dir/npc/squirrel.cpp.o -o lab6 
