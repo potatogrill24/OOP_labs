@@ -36,7 +36,6 @@ set_t load(const std::string &filename)
     set_t result;
     std::ifstream is(filepath);
     if (!is.is_open()){
-        std::cout << "Xyyyyu!" << std::endl;
         std::cerr << "Error: " << std::endl;
     }
     int count, x, y;
